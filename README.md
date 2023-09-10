@@ -45,7 +45,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Issues With Project
 
-* Did not commit to this repo and just saved myself of rehoming a project 2-3 times because git refuses to cooperate with me. I decided to just upload the file all at once.
+
+* Original Repo Has Issues Pushing
 
 ## Image Tutorial
 
