@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "read",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "This project requires us to use node.js to generate a readme file through a command line perspective rather than a front end input."
+}

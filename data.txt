@@ -1,0 +1,48 @@
+
+
+
+ReadMe.md Guide
+
+Please review down below a little guide I have provided for you of the different syntax to use in the ReadMe guide.
+The form won't start until the next 10 seconds so please take some time to review this first.
+
+DO NOT PRESS ENTER, that will move into a next question.
+
+
+
+< > <--- Markdown 
+
+#   <--- Main Header
+
+## and/or ### <--- Subheaders (Remember to Space Them (Ex: # Word not #Word ) For Headers To Work Properly)
+
+```  
+     <--- Script Box Examplifier (Top and Bottom Must Be Opened and Closed By It )
+
+```
+
+[ ]  <--- Checkbox or Alt Tags
+
+( ) <--- Possible Link 
+
+-    <--- List Style
+
+*    <--- Bullet point Style
+
+** **  <--- Text Emboldener 
+
+(Typical Section Layout Of A ReadMe Guide)
+
+- Description
+- Installation
+- Usage
+- Contribution
+- Tests
+
+Credit
+
+- License Type
+- Git Profile 
+- Email Contact
+
+^ Instructions Above ^
